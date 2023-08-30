@@ -1,0 +1,7 @@
+Rules For Creating Java File:
+
+rule 1 : The name of the Java file should always be the same as the name of its public class
+
+rule 2 : If we have created two or more public classes then it will give an error while Compiling the File
+
+rule 3 : If we do not create any public class we give any name to Main file or give name of any class(Default Class)

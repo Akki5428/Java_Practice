@@ -1,0 +1,8 @@
+Rules For Creating Multiple Java File:
+
+1.We can complie Multiple java file at same time
+  ex.javac A.java B.java C.java   or ex. javac *.java (Its run all the java file in current folder)
+
+2.We can not Run multiple java class at same time
+
+3.We can  not create same class in  multiple files
